@@ -2,4 +2,4 @@ Andik Prasetyo Resolusi:
 1. Menyelesaikan Aplikasi Mobile Silanoda
 2. Memahami penggunaan Git dan Github
 3. Belajar TailwindCSS
-4. Memahami React
+4. Membangun Aplikasi Waste Market
