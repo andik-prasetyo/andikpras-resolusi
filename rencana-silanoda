@@ -1,7 +1,8 @@
 RENCANA SILANODA
 
 - Membuat Database Baru
-  * Database lama tidak usah di backup
+  * Membackup database lama
   * Menghapus database lama
+  * Bertanya Bang Firman
 - Membuat Silanoda Admin dan User
 - Menyelesaikan Silanoda Mobile
